@@ -1,24 +1,22 @@
-
+#EXTM3U
 
 #EXTINF:-1 tvg-id="AlAoula" group-title="Maroc",Al Aoula
-https://hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+https://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="2MMonde" group-title="Maroc",2M Monde
-https://hls.globecast.tv/live/ramdisk/2m_monde/hls_snrt/index.m3u8
+https://cdn-hls.globecast.tv/live/ramdisk/2m_monde/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="Arryadia" group-title="Maroc",Arryadia
-https://hls.globecast.tv/live/ramdisk/arryadia/hls_snrt/index.m3u8
+https://cdn-hls.globecast.tv/live/ramdisk/arryadia/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="AlMaghribia" group-title="Maroc",Al Maghribia
-https://hls.globecast.tv/live/ramdisk/al_maghribia/hls_snrt/index.m3u8
+https://cdn-hls.globecast.tv/live/ramdisk/al_maghribia/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="Tamazight" group-title="Maroc",Tamazight
-https://hls.globecast.tv/live/ramdisk/tamazight_tv/hls_snrt/index.m3u8
+https://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="Assadissa" group-title="Maroc",Assadissa
-https://hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+https://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="Laayoune" group-title="Maroc",Laayoune TV
-https://hls.globecast.tv/live/ramdisk/laayoune_tv/hls_snrt/index.m3u8
-
-
+https://cdn-hls.globecast.tv/live/ramdisk/laayoune_tv/hls_snrt/index.m3u8
