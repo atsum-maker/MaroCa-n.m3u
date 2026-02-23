@@ -5,49 +5,49 @@ For Free m3u IPTV Playlist : http://www.2iptv.com
 **********************************
  
  
-#EXTINF:-1,IT | Rai1 HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1059.ts
-#EXTINF:-1,IT | Rai2 HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1058.ts
-#EXTINF:-1,IT | Rai3 HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1057.ts
-#EXTINF:-1,IT | Rai4 HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1056.ts
-#EXTINF:-1,IT | Rai5
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1055.ts
-#EXTINF:-1,IT | Rai Premium
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1684.ts
-#EXTINF:-1,IT | Rai Sport1
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1685.ts
-#EXTINF:-1,IT | italia1 HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1053.ts
-#EXTINF:-1,IT | Italia 2
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1052.ts
-#EXTINF:-1,IT | Canale5 HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1051.ts
-#EXTINF:-1,IT | Rai Movie
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1054.ts
-#EXTINF:-1,IT: Fox Life HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/62.ts
-#EXTINF:-1,IT: FOX Sport HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/63.ts
-#EXTINF:-1,IT : Premium Sport HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1706.ts
-#EXTINF:-1,IT : Sky Uno HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1707.ts
-#EXTINF:-1,IT | Alice
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1664.ts
-#EXTINF:-1,IT | Dmax HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1665.ts
-#EXTINF:-1,IT | Eurosport 1 HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1666.ts
-#EXTINF:-1,IT | Eurosport 2 HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1667.ts
-#EXTINF:-1,IT | Fox Comedy HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1668.ts
-#EXTINF:-1,IT | Fox Crime HD
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1669.ts
-#EXTINF:-1,IT | La7
-http://ipthost.com:25461/live/tRDQFQmIB8/S9vJgU3a0d/1670.ts
-
-
+#EXTINF:0,ARGENTINA - A24 HD
+http://ar.watcha.live/ch2/hi.m3u8
+#EXTINF:0,ARGENTINA - A24 FHD
+http://ar.watcha.live/ch2/full.m3u8
+#EXTINF:0,ARGENTINA - AMERICA TV FHD
+http://ar.watcha.live/ch3/full.m3u8
+#EXTINF:0,ARGENTINA - 360 HD
+http://br.watcha.live/ch12/hi720.m3u8
+#EXTINF:0,ARGENTINA - CANAL 9 HD
+http://br.watcha.live/ch5/hi.m3u8
+#EXTINF:0,ARGENTINA - CANAL 9 FHD
+http://br.watcha.live/ch5/full.m3u8
+#EXTINF:0,ARGENTINA - CANAL 13 HD
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:0,ARGENTINA - CANAL 13 FHD
+http://ar.watcha.live/ch7/full.m3u8
+#EXTINF:0,ARGENTINA - CANAL 26 HD
+http://ar.watcha.live/ch10/hi.m3u8
+#EXTINF:0,ARGENTINA - C5N HD
+http://br.watcha.live/ch1/hi720.m3u8
+#EXTINF:0,ARGENTINA - CN23 HD
+http://br.watcha.live/ch11/hiSD.m3u8
+#EXTINF:0,ARGENTINA - CRONICA HD
+http://ar.watcha.live/ch18/hi.m3u8
+#EXTINF:0,ARGENTINA - DXTV HD
+http://ar.watcha.live/ch8/hi.m3u8
+#EXTINF:0,ARGENTINA - DXTV FHD
+http://ar.watcha.live/ch8/full.m3u8
+#EXTINF:0,ARGENTINA - ENCUENTRO HD
+http://ar.watcha.live/ch14/hi.m3u8
+#EXTINF:0,ARGENTINA - LN+ HD
+http://ar.watcha.live/ch9/hi.m3u8
+#EXTINF:0,ARGENTINA - PAKAPAKA HD
+http://ar.watcha.live/ch15/hi.m3u8
+#EXTINF:0,ARGENTINA - TELEFE HD
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:0,ARGENTINA - TELEFE FHD
+http://ar.watcha.live/ch6/full.m3u8
+#EXTINF:0,ARGENTINA - TV PUBLICA HD
+http://ar.watcha.live/ch4/hi.m3u8
+#EXTINF:0,ARGENTINA - TV PUBLICA FHD
+http://ar.watcha.live/ch4/full.m3u8
+#EXTINF:-1,Las estrellas (canal 2)
+http://iptv.premiumtutv.com/canal_7_lasestrellascanal2.m3u8
+#EXTINF:-1,Fox
+http://iptv.premiumtutv.com/canal_8_fox.m3u8
