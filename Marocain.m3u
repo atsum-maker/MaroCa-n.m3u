@@ -1,23 +1,87 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AlAoula" group-title="Maroc",Al Aoula
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+# ============================
+# 🇪🇸 ESPAÑA – TDT (LEGAL)
+# ============================
 
-#EXTINF:-1 tvg-id="2MMonde" group-title="Maroc",2M Monde
-https://cdn-hls.globecast.tv/live/ramdisk/2m_monde/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-name="La 1" group-title="España",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
-#EXTINF:-1 tvg-id="Arryadia" group-title="Maroc",Arryadia
-https://cdn-hls.globecast.tv/live/ramdisk/arryadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-name="La 2" group-title="España",La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8
 
-#EXTINF:-1 tvg-id="AlMaghribia" group-title="Maroc",Al Maghribia
-https://cdn-hls.globecast.tv/live/ramdisk/al_maghribia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-name="Teledeporte" group-title="Deportes",Teledeporte
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 
-#EXTINF:-1 tvg-id="Tamazight" group-title="Maroc",Tamazight
-https://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-name="24h" group-title="Noticias",Canal 24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 
-#EXTINF:-1 tvg-id="Assadissa" group-title="Maroc",Assadissa
-https://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="Laayoune" group-title="Maroc",Laayoune TV
-https://cdn-hls.globecast.tv/live/ramdisk/laayoune_tv/hls_snrt/index.m3u8
+# ============================
+# 🌍 INTERNACIONAL – DEPORTES
+# ============================
+
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Sports",Sport Italia
+https://di-kzbhv8pw.vo.llnwd.net/si-live/si/si.m3u8
+
+#EXTINF:-1 group-title="Sports",Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Outside TV
+https://outsidetv-samsung.amagi.tv/playlist.m3u8
+
+
+# ============================
+# 🇸🇾 🇶🇦 🇸🇦 CANALES ÁRABES
+# ============================
+
+#EXTINF:-1 group-title="Árabe",Syria TV
+https://stream.syria.tv/hls/syriatv.m3u8
+
+#EXTINF:-1 group-title="Árabe",Al Kass Sports 1
+https://alkasmsl.akamaized.net/hls/live/2093200/alkass1/master.m3u8
+
+#EXTINF:-1 group-title="Árabe",Al Kass Sports 2
+https://alkasmsl.akamaized.net/hls/live/2093201/alkass2/master.m3u8
+
+#EXTINF:-1 group-title="Árabe",Al Jazeera Arabic
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="Árabe",DW Arabic
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+
+# ============================
+# 🌐 NOTICIAS INTERNACIONALES
+# ============================
+
+#EXTINF:-1 group-title="Noticias",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 group-title="Noticias",Euronews English
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+# ============================
+# 🎵 MÚSICA
+# ============================
+
+#EXTINF:-1 group-title="Música",Qello Concerts
+https://qello-concerts-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+
+# ============================
+# 📺 DOCUMENTALES
+# ============================
+
+#EXTINF:-1 group-title="Documentales",Real Stories
+https://lds-realstories-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentales",History Hit
+https://historyhit-samsunguk.amagi.tv/playlist.m3u8
