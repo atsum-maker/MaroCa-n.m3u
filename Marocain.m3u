@@ -1,87 +1,69 @@
-#EXTM3U
-
-# ============================
-# 🇪🇸 ESPAÑA – TDT (LEGAL)
-# ============================
-
-#EXTINF:-1 tvg-name="La 1" group-title="España",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
-
-#EXTINF:-1 tvg-name="La 2" group-title="España",La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8
-
-#EXTINF:-1 tvg-name="Teledeporte" group-title="Deportes",Teledeporte
-https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
-
-#EXTINF:-1 tvg-name="24h" group-title="Noticias",Canal 24h
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
-
-
-# ============================
-# 🌍 INTERNACIONAL – DEPORTES
-# ============================
-
-#EXTINF:-1 group-title="Sports",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 group-title="Sports",Sport Italia
-https://di-kzbhv8pw.vo.llnwd.net/si-live/si/si.m3u8
-
-#EXTINF:-1 group-title="Sports",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",Outside TV
-https://outsidetv-samsung.amagi.tv/playlist.m3u8
-
-
-# ============================
-# 🇸🇾 🇶🇦 🇸🇦 CANALES ÁRABES
-# ============================
-
-#EXTINF:-1 group-title="Árabe",Syria TV
-https://stream.syria.tv/hls/syriatv.m3u8
-
-#EXTINF:-1 group-title="Árabe",Al Kass Sports 1
-https://alkasmsl.akamaized.net/hls/live/2093200/alkass1/master.m3u8
-
-#EXTINF:-1 group-title="Árabe",Al Kass Sports 2
-https://alkasmsl.akamaized.net/hls/live/2093201/alkass2/master.m3u8
-
-#EXTINF:-1 group-title="Árabe",Al Jazeera Arabic
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 group-title="Árabe",DW Arabic
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-
-# ============================
-# 🌐 NOTICIAS INTERNACIONALES
-# ============================
-
-#EXTINF:-1 group-title="Noticias",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-
-#EXTINF:-1 group-title="Noticias",Euronews English
-https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-# ============================
-# 🎵 MÚSICA
-# ============================
-
-#EXTINF:-1 group-title="Música",Qello Concerts
-https://qello-concerts-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Música",Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-
-
-# ============================
-# 📺 DOCUMENTALES
-# ============================
-
-#EXTINF:-1 group-title="Documentales",Real Stories
-https://lds-realstories-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentales",History Hit
-https://historyhit-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,TR | BEIN SPORTS HD 1
+http://pro.prox7.com:8080/live/demirci1/1demirci/2.ts
+#EXTINF:-1,TR | BEIN SPORTS HD 1-H.265.HVEC
+http://pro.prox7.com:8080/live/demirci1/1demirci/51.ts
+#EXTINF:-1,TR | beIN SPORTS SD 1
+http://pro.prox7.com:8080/live/demirci1/1demirci/7683.ts
+#EXTINF:-1,TR | BEIN SPORTS HD 1 MOBILE
+http://pro.prox7.com:8080/live/demirci1/1demirci/7660.ts
+#EXTINF:-1,TR | beIN SPORTS 1 UHD
+http://pro.prox7.com:8080/live/demirci1/1demirci/8291.ts
+#EXTINF:-1,TR | BEIN SPORTS HD 1 1080i
+http://pro.prox7.com:8080/live/demirci1/1demirci/7684.ts
+#EXTINF:-1,TR | BEIN SPORTS HD 1 720p
+http://pro.prox7.com:8080/live/demirci1/1demirci/7685.ts
+#EXTINF:-1,TR | BEIN SPORTS HD 2
+http://pro.prox7.com:8080/live/demirci1/1demirci/3.ts
+#EXTINF:-1,TR | BEIN SPORTS SD 2
+http://pro.prox7.com:8080/live/demirci1/1demirci/9196.ts
+#EXTINF:-1,TR | BEIN SPORTS HD 3
+http://pro.prox7.com:8080/live/demirci1/1demirci/4.ts
+#EXTINF:-1,TR | BEIN SPORTS SD 3
+http://pro.prox7.com:8080/live/demirci1/1demirci/9197.ts
+#EXTINF:-1,TR | BEIN SPORTS HD 4
+http://pro.prox7.com:8080/live/demirci1/1demirci/220.ts
+#EXTINF:-1,TR | beIN SPORTS MAX HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/7600.ts
+#EXTINF:-1,TR | beIN SPORTS MAX 2 HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/7601.ts
+#EXTINF:-1,TR | BEIN SPORTS HABER HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/8201.ts
+#EXTINF:-1,VIP I beIN Series Drama HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/8271.ts
+#EXTINF:-1,VIP I beIN Series Vice HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/8270.ts
+#EXTINF:-1,TR | Bein Movies Comedy HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/8274.ts
+#EXTINF:-1,TR | beIN PREMIER HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4811.ts
+#EXTINF:-1,TR | beIN PREMIER 2 HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4812.ts
+#EXTINF:-1,TR | beIN ACTION HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4813.ts
+#EXTINF:-1,TR | beIN ACTION 2 HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4814.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/6.ts
+#EXTINF:-1,TR | beIN MOVIEMAX COMEDY HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4817.ts
+#EXTINF:-1,TR | beIN MOVIEMAX TURK HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4819.ts
+#EXTINF:-1,TR | beIN STARS HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4818.ts
+#EXTINF:-1,TR | beIN FESTIVAL HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4816.ts
+#EXTINF:-1,TR | beIN FAMILY HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/4815.ts
+#EXTINF:-1,TR | BEIN SERIES SCI-FI
+http://pro.prox7.com:8080/live/demirci1/1demirci/38.ts
+#EXTINF:-1,======>SINEMA KANALLARI<======
+http://pro.prox7.com:8080/live/demirci1/1demirci/8207.ts
+#EXTINF:-1,TR | VIP CHANNEL HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/5.ts
+#EXTINF:-1,TR | BEIN BOX OFFICE 1 HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/7.ts
+#EXTINF:-1,TR | BEIN BOX OFFICE 2 HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/8.ts
+#EXTINF:-1,TR | BEIN BOX OFFICE 3 HD
+http://pro.prox7.com:8080/live/demirci1/1demirci/9.ts
+ 
